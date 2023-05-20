@@ -33,7 +33,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 5rem;
+  font-size: 16vw;
 }
 .block {
   height: 100%;
@@ -60,7 +60,7 @@ body {
   justify-content: space-around;
   align-items: center;
   color: #897575;
-  font-size: 1.5rem;
+  font-size: 4.8vw;
   border-radius: 0.9rem;
 }
 .infoBlock {
